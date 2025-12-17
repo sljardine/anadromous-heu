@@ -7,7 +7,6 @@
 .Rproj.user
 
 # Ignore output and figures
-output/
 *.pdf
 *.png
 *.jpg
