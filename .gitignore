@@ -1,0 +1,27 @@
+# Ignore OS files
+.DS_Store
+
+# Ignore R temporary files
+.Rhistory
+.RData
+.Rproj.user
+
+# Ignore output and figures
+output/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Ignore docs/manuscripts
+docs/manuscripts/
+
+# Ignore backup files
+*.bak
+*.tmp
+*.log
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+*.out
