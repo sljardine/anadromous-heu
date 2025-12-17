@@ -12,7 +12,7 @@ The upstream [app](https://example.com) allows users to explore the underlying m
 | Script | Purpose |
 |--------|---------|
 | **helper_funs.R** | Core functions for optimization (`solve_opt`), heuristic scoring (`solve_pi`), Pareto and PI frontiers (`get_pareto_front`, `get_pi_front`), and visualization (`leaflet_soln`, `get_hm_dat`, `get_lp_dat`). Requires a Gurobi license to run optimizations. |
-| **01_add_features.R** | Prepares and augments the culvert dataset with features like normalized upstream/downstream counts and habitat variables for analysis. |
+| **01_add_features.R** | Prepares and augments the culvert dataset with features like normalized upstream/downstream counts and habitat variables for analysis. DO NOT RUN (SEE BELOW). |
 | **02_quant_fronts.R** | Computes Pareto and heuristic frontiers, which are input data for Figure 5. |
 | **03_quant_fig.R** | Generates Figures 5 summarizing frontier performance and comparisons across multiple expenditure levels and objectives. |
 | **04_2x2_dat.R** | Prepares data for “2×2” data, which are input data for Figure 6. |
