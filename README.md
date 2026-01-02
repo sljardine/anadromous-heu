@@ -1,6 +1,6 @@
 # anadromous-heu
 
-This repository provides replication materials for Improving Restoration Heuristics to Support Anadromous Fish Passage.
+This repository provides replication materials for "Improving Restoration Heuristics to Support Anadromous Fish Passage".
 
 Input data can be further explored using the upstream [app](https://example.com) and the scripts in this repository replicate all results in the manuscript and supplementary information.
 
